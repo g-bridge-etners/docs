@@ -9,3 +9,8 @@
 ----
 ### 발표자료
 * [2020-07-15 초기 기획 발표자료](https://github.com/g-bridge-etners/docs/blob/master/gbridge_2020_07_15_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+
+----
+### 문서
+* [RESET API REFERENCE version1.0](https://github.com/g-bridge-etners/docs/issues/6)
+* [RESET API REFERENCE version2.0](https://github.com/g-bridge-etners/docs/issues/7)
