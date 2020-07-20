@@ -13,6 +13,8 @@
 
 ----
 ### 문서
-* [RESET API REFERENCE version1.0](https://github.com/g-bridge-etners/docs/issues/6)
-* [RESET API REFERENCE version2.0](https://github.com/g-bridge-etners/docs/issues/7)
-* [RESET API REFERENCE version2.1](https://github.com/g-bridge-etners/docs/issues/9)
+* [REST API REFERENCE version1.0](https://github.com/g-bridge-etners/docs/issues/6)
+* [REST API REFERENCE version2.0](https://github.com/g-bridge-etners/docs/issues/7)
+* [REST API REFERENCE version2.1](https://github.com/g-bridge-etners/docs/issues/9)
+* [REST API REFERENCE version 3.0](https://github.com/g-bridge-etners/docs/issues/11)
+* [REST API REFERENCE version 3.1](https://github.com/g-bridge-etners/docs/issues/12)
