@@ -6,6 +6,8 @@
 * [3차 회의록 2020-07-14 16:00~17:30](https://github.com/g-bridge-etners/docs/issues/3)
 * [4차 회의록 2020-07-15 16:30~17:00](https://github.com/g-bridge-etners/docs/issues/4)
 * [5차 회의록 2020-07-17 16:30~17:00](https://github.com/g-bridge-etners/docs/issues/8)
+* [6차 회의록 2020-07-17 16:30~17:00](https://github.com/g-bridge-etners/docs/issues/13)
+* [7차 회의록 2020-07-17 16:30~17:00](https://github.com/g-bridge-etners/docs/issues/14)
 
 ----
 ### 발표자료
@@ -16,5 +18,7 @@
 * [REST API REFERENCE version1.0](https://github.com/g-bridge-etners/docs/issues/6)
 * [REST API REFERENCE version2.0](https://github.com/g-bridge-etners/docs/issues/7)
 * [REST API REFERENCE version2.1](https://github.com/g-bridge-etners/docs/issues/9)
+* [REST API REFERENCE version 2.2](https://github.com/g-bridge-etners/docs/issues/10)
 * [REST API REFERENCE version 3.0](https://github.com/g-bridge-etners/docs/issues/11)
 * [REST API REFERENCE version 3.1](https://github.com/g-bridge-etners/docs/issues/12)
+* [REST API REFERENCE version 3.2](https://github.com/g-bridge-etners/docs/issues/15)
